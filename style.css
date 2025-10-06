@@ -723,4 +723,36 @@ body {
     transform: scale(1.1);
     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
-
+.linkedin,img{
+    width:4%;
+    
+    padding-top: 1%;
+    
+}
+.mozilla{
+    padding-top: 1%;
+    padding-left: 1%;
+}
+.instagram{
+    padding-top: 1%;
+    padding-left: 1%;
+    
+}
+.email{
+    padding-top: 1%;
+    padding-left: 1%;
+}
+a:hover{
+    color: rgb(56, 87, 192);
+}
+.h3{
+    text-align: left;
+    padding-left: 15px;
+    color: #ff9800;
+}
+.arrow{
+    padding-left:97%;
+} 
+.social{
+    font-size:30px;font-weight: 400;
+}
